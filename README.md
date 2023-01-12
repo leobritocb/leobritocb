@@ -6,6 +6,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using Python and C#.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leobritocb&repo=Projects)](https://github.com/leobritocb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobritocb)](https://github.com/leobritocb)
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobritoti/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leobrito/) 
