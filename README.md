@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D16AQEgtjmiaG0dHQ/profile-displaybackgroundimage-shrink_350_1400/0/1668542582163?e=1678924800&v=beta&t=vk3uCQJ_KrZSMYFJKjNicwioB68nYt1cdMlp63W0nb4"
+<img src="https://media.licdn.com/dms/image/C4D16AQEgtjmiaG0dHQ/profile-displaybackgroundimage-shrink_350_1400/0/1668542582163?e=1678924800&v=beta&t=vk3uCQJ_KrZSMYFJKjNicwioB68nYt1cdMlp63W0nb4">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to backend .NET and machine learning.
